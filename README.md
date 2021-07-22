@@ -1,6 +1,6 @@
 # Welcome to the docker-symfony-base!
 
-Simple docker image based on php:7.3-fpm.
+Simple docker image based on php:8.0-fpm.
 
 Included packages:
 - bash

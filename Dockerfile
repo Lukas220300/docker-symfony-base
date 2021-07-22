@@ -1,4 +1,4 @@
-FROM php:7.3-fpm
+FROM php:8.0-fpm
 RUN apt-get update && apt-get upgrade
 RUN apt-get install -y bash mariadb-client rsync wget zip openssh-client
 
